@@ -1,0 +1,13 @@
+.location-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  flex-direction: column;
+}
+
+.rick-list {
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+}

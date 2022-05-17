@@ -1,0 +1,12 @@
+.card img {
+  width: 100%;
+}
+li {
+  padding: 30px;
+  width: 25%;
+}
+.card {
+  border: 1px solid silver;
+  padding: 10px;
+  border-radius: 6px;
+}
